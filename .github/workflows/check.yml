@@ -1,4 +1,4 @@
-name: Ticket Monitor
+name: ticket-view
 
 on:
   schedule:
